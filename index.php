@@ -188,7 +188,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
     </div>
   -->
     <div class="w3-container">
-      <img src="w3images/robot.jpg" alt="Me" style="width:100%">
+      <img src="w3images/robot.jpg" alt="Me" style="width:50%">
     </div>
   </div>
 
@@ -216,8 +216,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
       <p>512312311</p>
     </div>
   </div>
-<!-- Commented off by norman on 07 Jul 2024, use google form as iframe instead -->   
-  <!--
+
   <hr class="w3-opacity">
 
   <form action="" method="post" enctype="multipart/form-data">
@@ -252,9 +251,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
     ?>
 
   </form>
-  -->
-      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfLpC9z84nKbUvnKTZdGRc4xkSEX44Uak6FoLFCH90WltNMLQ/viewform?embedded=true" width="640" height="689" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
+ 
 </div>
 
 
